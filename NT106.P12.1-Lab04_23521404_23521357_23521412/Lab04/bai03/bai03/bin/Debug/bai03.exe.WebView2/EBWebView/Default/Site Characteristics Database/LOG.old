@@ -1,0 +1,5 @@
+2024/11/18-08:24:16.296 d8c0 Log #3: 30 ops saved to Table #4 OK
+2024/11/18-08:24:16.297 d8c0 Archiving D:\Lab\NT106\Lab04\bai03\bai03\bin\Debug\bai03.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2024/11/18-08:24:16.298 d8c0 Table #4: 30 entries OK
+2024/11/18-08:24:16.335 d8c0 Archiving D:\Lab\NT106\Lab04\bai03\bai03\bin\Debug\bai03.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2024/11/18-08:24:16.340 d8c0 **** Repaired leveldb D:\Lab\NT106\Lab04\bai03\bai03\bin\Debug\bai03.exe.WebView2\EBWebView\Default\Site Characteristics Database; recovered 1 files; 602 bytes. Some data may have been lost. ****

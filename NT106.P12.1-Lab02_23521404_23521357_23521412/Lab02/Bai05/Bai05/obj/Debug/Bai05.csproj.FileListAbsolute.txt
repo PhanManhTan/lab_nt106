@@ -1,0 +1,20 @@
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bai05.exe.config
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bai05.exe
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bai05.pdb
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai05.resources
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Bai05.Properties.Resources.resources
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Bai05.csproj.GenerateResource.cache
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Bai05.exe
+D:\Git\Bai5 lab2\NT106-Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Bai05.pdb
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.csproj.AssemblyReference.cache
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.Bai05.resources
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.Properties.Resources.resources
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.csproj.GenerateResource.cache
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.csproj.CoreCompileInputs.cache
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.exe
+D:\Lab\NT106\Lab02\Bai05\Bai05\obj\Debug\Bai05.pdb
+D:\Lab\NT106\Lab02\Bai05\Bai05\bin\Debug\Bai05.exe.config
+D:\Lab\NT106\Lab02\Bai05\Bai05\bin\Debug\Bai05.exe
+D:\Lab\NT106\Lab02\Bai05\Bai05\bin\Debug\Bai05.pdb

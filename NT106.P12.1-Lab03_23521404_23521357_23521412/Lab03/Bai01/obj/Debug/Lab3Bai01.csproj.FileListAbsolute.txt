@@ -1,0 +1,12 @@
+F:\Main\LTMCB\TH3\Lab3Bai01\bin\Debug\Lab3Bai01.exe.config
+F:\Main\LTMCB\TH3\Lab3Bai01\bin\Debug\Lab3Bai01.exe
+F:\Main\LTMCB\TH3\Lab3Bai01\bin\Debug\Lab3Bai01.pdb
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.csproj.AssemblyReference.cache
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.Dashboard.resources
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.Properties.Resources.resources
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.UDP_Client.resources
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.UDP_Server.resources
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.csproj.GenerateResource.cache
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.csproj.CoreCompileInputs.cache
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.exe
+F:\Main\LTMCB\TH3\Lab3Bai01\obj\Debug\Lab3Bai01.pdb

@@ -1,0 +1,10 @@
+D:\Lab\NT106\Lab02\Bai02\Bai02\bin\Debug\Bai02.exe.config
+D:\Lab\NT106\Lab02\Bai02\Bai02\bin\Debug\Bai02.exe
+D:\Lab\NT106\Lab02\Bai02\Bai02\bin\Debug\Bai02.pdb
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.exe
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.pdb
+D:\Lab\NT106\Lab02\Bai02\Bai02\obj\Debug\Bai02.Bai02.resources

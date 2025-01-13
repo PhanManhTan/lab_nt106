@@ -1,0 +1,16 @@
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Server.exe.config
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Server.exe
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Server.pdb
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.Server.resources
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.exe
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.pdb
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Client.exe
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Newtonsoft.Json.dll
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Client.pdb
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Client.exe.config
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\bin\Debug\Newtonsoft.Json.xml
+D:\Lab\NT106\Lab03\Bai04\Bai04\Server\obj\Debug\Server.csproj.Up2Date

@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\foodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\foodresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|d:\\lab\\nt106\\nt106.p12.1-lab04_23521404_23521357_23521412\\lab04\\bai06\\bai06\\bai06\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\hnag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\hnag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\inforfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\inforfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\inforfood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\inforfood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\inforfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\inforfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\formx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\formx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\formx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\formx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\hnag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\hnag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\add.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\bai06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB702E-F66A-4263-B0A1-1A8F65A838F8}|Bai06\\Bai06.csproj|solutionrelative:bai06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 722,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Login.cs",
+              "RelativeDocumentMoniker": "Bai06\\Login.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Login.cs",
+              "RelativeToolTip": "Bai06\\Login.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:18:56.895Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\user.cs",
+              "RelativeDocumentMoniker": "Bai06\\user.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\user.cs",
+              "RelativeToolTip": "Bai06\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:22:00.279Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormX.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\FormX.cs",
+              "RelativeDocumentMoniker": "Bai06\\FormX.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\FormX.cs",
+              "RelativeToolTip": "Bai06\\FormX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:11:08.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormX.cs [Design]",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\FormX.cs",
+              "RelativeDocumentMoniker": "Bai06\\FormX.cs",
+              "ToolTip": "D:\\Lab\\NT106\\Lab04\\Bai06\\Bai06\\Bai06\\FormX.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab04\\Bai06\\Bai06\\Bai06\\FormX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:09:52.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodResponse.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\FoodResponse.cs",
+              "RelativeDocumentMoniker": "Bai06\\FoodResponse.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\FoodResponse.cs",
+              "RelativeToolTip": "Bai06\\FoodResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:59:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.Designer.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Add.Designer.cs",
+              "RelativeDocumentMoniker": "Bai06\\Add.Designer.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Add.Designer.cs",
+              "RelativeToolTip": "Bai06\\Add.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:22:26.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inforFood.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.cs",
+              "RelativeDocumentMoniker": "Bai06\\inforFood.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.cs",
+              "RelativeToolTip": "Bai06\\inforFood.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:46:37.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\SignUp.cs",
+              "RelativeDocumentMoniker": "Bai06\\SignUp.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\SignUp.cs",
+              "RelativeToolTip": "Bai06\\SignUp.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wGYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:38:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "inforFood.Designer.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.Designer.cs",
+              "RelativeDocumentMoniker": "Bai06\\inforFood.Designer.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.Designer.cs",
+              "RelativeToolTip": "Bai06\\inforFood.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:14:53.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "inforFood.cs [Design]",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.cs",
+              "RelativeDocumentMoniker": "Bai06\\inforFood.cs",
+              "ToolTip": "D:\\Lab\\NT106\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab04\\Bai06\\Bai06\\Bai06\\inforFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:44:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Food.cs",
+              "RelativeDocumentMoniker": "Bai06\\Food.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Food.cs",
+              "RelativeToolTip": "Bai06\\Food.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:02:32.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HNAG.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\HNAG.cs",
+              "RelativeDocumentMoniker": "Bai06\\HNAG.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\HNAG.cs",
+              "RelativeToolTip": "Bai06\\HNAG.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:23:28.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Add.cs",
+              "RelativeDocumentMoniker": "Bai06\\Add.cs",
+              "ToolTip": "D:\\Lab\\NT106\\Lab04\\Bai06\\Bai06\\Bai06\\Add.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab04\\Bai06\\Bai06\\Bai06\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:23:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\SignUp.cs",
+              "RelativeDocumentMoniker": "Bai06\\SignUp.cs",
+              "ToolTip": "D:\\Lab\\NT106\\Lab04\\Bai06\\Bai06\\Bai06\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab04\\Bai06\\Bai06\\Bai06\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:14:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HNAG.cs [Design]",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\HNAG.cs",
+              "RelativeDocumentMoniker": "Bai06\\HNAG.cs",
+              "ToolTip": "D:\\Lab\\NT106\\Lab04\\Bai06\\Bai06\\Bai06\\HNAG.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab04\\Bai06\\Bai06\\Bai06\\HNAG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:15:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Program.cs",
+              "RelativeDocumentMoniker": "Bai06\\Program.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Program.cs",
+              "RelativeToolTip": "Bai06\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:01:30.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Login.cs",
+              "RelativeDocumentMoniker": "Bai06\\Login.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Login.cs [Design]",
+              "RelativeToolTip": "Bai06\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:14:22.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cs",
+              "DocumentMoniker": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Add.cs",
+              "RelativeDocumentMoniker": "Bai06\\Add.cs",
+              "ToolTip": "D:\\Lab\\NT106\\NT106.P12.1-Lab04_23521404_23521357_23521412\\Lab04\\Bai06\\Bai06\\Bai06\\Add.cs",
+              "RelativeToolTip": "Bai06\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:28:08.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

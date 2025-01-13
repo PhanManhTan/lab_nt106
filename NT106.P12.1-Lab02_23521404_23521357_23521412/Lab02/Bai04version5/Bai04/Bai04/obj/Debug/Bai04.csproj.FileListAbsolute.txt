@@ -1,0 +1,10 @@
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\bin\Debug\Bai04.exe.config
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\bin\Debug\Bai04.exe
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\bin\Debug\Bai04.pdb
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.Bai04.resources
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.Properties.Resources.resources
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.csproj.GenerateResource.cache
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.exe
+D:\Lab\NT106\Lab02\Bai04version5\Bai04\Bai04\obj\Debug\Bai04.pdb
